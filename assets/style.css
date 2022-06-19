@@ -142,3 +142,12 @@ body {
 .buttons .generate-quote {
     color: #F19C25;
 }
+
+@media screen and (max-width: 600px) {
+    body {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+}
