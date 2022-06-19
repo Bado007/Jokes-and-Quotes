@@ -99,8 +99,15 @@ body {
     align-items: center;
 }
 
+.copy-me i:hover {
+    background-color: #797062;
+    transition: all 0.3s ease-out;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+
 .buttons-container {
-    background-color: aqua;
     height: 30px;   
     width: 600px;
     margin-top: 20px;
@@ -118,6 +125,18 @@ body {
     text-align: center;
     text-decoration: none;
     font-size: 16px;
+    cursor: pointer;
+}
+
+.buttons *:hover{
+    background-color: #797062;
+    transition: all 0.3s ease-in-out;
+    
+}
+
+.buttons *:visited {
+    text-decoration: underline 1px #F19C25;
+    
 }
 
 .buttons .generate-quote {
