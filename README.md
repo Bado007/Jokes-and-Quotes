@@ -1,12 +1,12 @@
-
-
-## User Experience (UX)
+# Jokes and Quotes 
 
 Jokes and Quotes is a simple website with a primary goal of entertainment. Its purpose is to enlighten and inspire the users with its responsive design and functionality of randomly generating motivational quotes and all kinds of jokes.
 
 <img width="818" alt="Screenshot 2022-06-23 at 03 32 48" src="https://user-images.githubusercontent.com/103571907/175191276-0c5f920e-275f-4e4f-92b6-d23192911e92.png">
 
 [VIEW LIVE HERE](https://bado007.github.io/Jokes-and-Quotes/)
+
+## User Experience (UX)
 
  #### First Time Visitor Goals
  - Catching the user's attention with nice contrast and modern design.
@@ -77,6 +77,7 @@ The W3C Markup Validator, W3C CSS, Jshint JavaScript Validator Services were use
 
 ## Credits
 
+- [Code Institute](https://learn.codeinstitute.net/)
 - Code Institute Slack Comunity
 - Youtube 
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
