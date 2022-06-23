@@ -48,7 +48,7 @@ body {
     height: inherit;
 }
 
-/* Copy Button */
+/* Quotation mark styling */
 
 .quote-area i {
     font-size: 15px;
@@ -66,14 +66,16 @@ body {
     align-items: flex-end;
     margin: 0 0 3px 10px;
 }
-    
+
+/* Quote / Joke Content Area  */
+
 .quote-area .quote.text {
     font-size: 25px;
     text-align: center;
     word-break: break-all;
-    width: -moz-fit-content;
-    height: -moz-fit-content;
 }
+
+/* Author  */
 
 .content .author {
     display: flex;
@@ -85,9 +87,11 @@ body {
 .content span:first-child {
     margin-right: 5px;
     font-family: monospace;
-    letter-spacing: 2px;
+    letter-spacing: 0.5px;
     margin: -6px 2px 20px 0;
 }
+
+/* Copy Button  */
 
 .content .copy-me {
     height: 100%;
@@ -115,6 +119,7 @@ body {
     cursor: pointer;
 }
 
+/* Buttons  */
 
 .buttons-container {
     height: 30px;   
@@ -146,6 +151,7 @@ body {
 .buttons.loading {
     opacity: 0.7;
     pointer-events: none;
+    color: #F19C25;
 }
 
 @media screen and (max-width: 600px) {
