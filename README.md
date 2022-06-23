@@ -6,6 +6,8 @@ Jokes and Quotes is a simple website with a primary goal of entertainment. Its p
 
 <img width="818" alt="Screenshot 2022-06-23 at 03 32 48" src="https://user-images.githubusercontent.com/103571907/175191276-0c5f920e-275f-4e4f-92b6-d23192911e92.png">
 
+LIVE LINK["https://bado007.github.io/Jokes-and-Quotes/"]
+
  #### First Time Visitor Goals
  - Catching the user's attention with nice contrast and modern design.
  #### Returning Visitor Goals
@@ -56,7 +58,7 @@ The W3C Markup Validator, W3C CSS, Jshint JavaScript Validator Services were use
 
 #### W3C Markup Validator - Results
 
-W3C["https://validator.w3.org/nu/"]
+(W3C["https://validator.w3.org/nu/"])
 
 <img width="1440" alt="Screenshot 2022-06-23 at 04 24 55" src="https://user-images.githubusercontent.com/103571907/175193824-640b2b43-5153-46b0-9a3d-6efa7bf57cce.png">
 
