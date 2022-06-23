@@ -6,7 +6,7 @@ Jokes and Quotes is a simple website with a primary goal of entertainment. Its p
 
 <img width="818" alt="Screenshot 2022-06-23 at 03 32 48" src="https://user-images.githubusercontent.com/103571907/175191276-0c5f920e-275f-4e4f-92b6-d23192911e92.png">
 
-LIVE LINK["https://bado007.github.io/Jokes-and-Quotes/"]
+[VIEW LIVE HERE](https://bado007.github.io/Jokes-and-Quotes/)
 
  #### First Time Visitor Goals
  - Catching the user's attention with nice contrast and modern design.
@@ -55,10 +55,11 @@ Git was used for version control by utilizing the Gitpod terminal to commit to G
 GitHub is used to store the projects code after being pushed from Git.
 - Testing
 The W3C Markup Validator, W3C CSS, Jshint JavaScript Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+- Canva was used for designing a mockup image for the sites design.
 
 #### W3C Markup Validator - Results
 
-(W3C["https://validator.w3.org/nu/"])
+[W3C](https://validator.w3.org/nu/)
 
 <img width="1440" alt="Screenshot 2022-06-23 at 04 24 55" src="https://user-images.githubusercontent.com/103571907/175193824-640b2b43-5153-46b0-9a3d-6efa7bf57cce.png">
 
@@ -66,19 +67,19 @@ The W3C Markup Validator, W3C CSS, Jshint JavaScript Validator Services were use
 
 <img width="1440" alt="Screenshot 2022-06-23 at 04 28 43" src="https://user-images.githubusercontent.com/103571907/175194312-d427b35e-c4c4-4244-a8bb-eb811e08fd12.png">
 
-W3C[https://jigsaw.w3.org/css-validator/validator]
+[W3C](https://jigsaw.w3.org/css-validator/validator)
 
 #### JavaScript Validator - Results
 
 <img width="1265" alt="Screenshot 2022-06-23 at 03 28 27" src="https://user-images.githubusercontent.com/103571907/175194474-28a19413-f147-4b57-a913-91deff390218.png">
 
-JShint[https://jshint.com/]
+[JShint](https://jshint.com/)
 
 ## Credits
 
 - Code Institute Slack Comunity
 - Youtube 
-- MDN Docs[https://developer.mozilla.org/en-US/docs/Web/JavaScript]
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
 
@@ -93,10 +94,10 @@ All elements were created by the developer.
 ## Acknowledgements
 ### Mentor 
 For guidance and planning of project for continuous helpful feedback.
-- Narender Sing GitHub [https://github.com/nar3nd3r]
+- Narender Sing [GitHub](https://github.com/nar3nd3r)
 
 ### My roomamte 
-- Irenej[https://github.com/PireIre] for explaining advanced concepts in Javascript functions. 
+- [Irenej](https://github.com/PireIre) for explaining advanced concepts in Javascript functions. 
 
 ### Youtube 
-- CodingNepal[https://www.youtube.com/c/CodingNepal/about]
+- [CodingNepal](https://www.youtube.com/c/CodingNepal/about)
