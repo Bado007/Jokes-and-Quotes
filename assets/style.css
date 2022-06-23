@@ -20,8 +20,10 @@ body {
     min-height: 100vh;   
 }
 
+/* Main Container */
+
 .container {
-    height: 300px;
+    height: 350px;
     width: 600px;
     background-color: whitesmoke;
     border-radius: 20px;
@@ -42,8 +44,11 @@ body {
     display: flex;
     justify-content: center;
     font-size: 18px;
+    width: inherit;
+    height: inherit;
 }
 
+/* Copy Button */
 
 .quote-area i {
     font-size: 15px;
@@ -52,6 +57,8 @@ body {
 
 .quote-area i:first-child {
     margin: 3px 10px 0 0;
+    width: fit-content;
+    height: fit-content;
 }
 
 .quote-area i:last-child {
@@ -64,6 +71,8 @@ body {
     font-size: 25px;
     text-align: center;
     word-break: break-all;
+    width: -moz-fit-content;
+    height: -moz-fit-content;
 }
 
 .content .author {
@@ -134,13 +143,9 @@ body {
     
 }
 
-.buttons *:visited {
-    text-decoration: underline 1px #F19C25;
-    
-}
-
-.buttons .generate-quote {
-    color: #F19C25;
+.buttons.loading {
+    opacity: 0.7;
+    pointer-events: none;
 }
 
 @media screen and (max-width: 600px) {
@@ -149,5 +154,4 @@ body {
         flex-wrap: wrap;
         width: 100%;
     }
-    
 }
