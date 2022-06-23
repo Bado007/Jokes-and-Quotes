@@ -97,7 +97,7 @@ All elements were created by the developer.
 For guidance and planning of project for continuous helpful feedback.
 - Narender Sing [GitHub](https://github.com/nar3nd3r)
 
-### My roomamte 
+### My roommate 
 - [Irenej](https://github.com/PireIre) for explaining advanced concepts in Javascript functions. 
 
 ### Youtube 
